@@ -35,6 +35,13 @@ This project visualizes flight data from the year 2015 using **Power BI**, provi
 - **Screenshots**: Available in the [Images](Dashboards) folder
 
 ---
+## 🛠️ How to Connect to the Kaggle API
+
+Below are the steps to connect to the Kaggle API to download the dataset. Follow these steps to set up your environment:
+
+![Steps to Connect to Kaggle API](connect/steps.png)
+
+---
 
 ## 🔗 Kaggle Dataset
 
