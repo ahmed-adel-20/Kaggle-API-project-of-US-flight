@@ -31,8 +31,7 @@ This project visualizes flight data from the year 2015 using **Power BI**, provi
 
 ## 📁 Project Files
 
-- **Kaggle API Python Script**: [`kaggle_api_connect.py`](Scripts/kaggle_api_connect.py)
-- **Power BI Dashboard**: [`US_Flights_2015.pbix`](PowerBI/US_Flights_2015.pbix)
+- **Kaggle API Python Script**: [`kaggle_api_connect.py`]([Scripts/kaggle_api_connect.py](https://github.com/ahmed-adel-20/Kaggle-API-project-of-US-flight/blob/main/Connect/Autokaggle.py))
 - **Screenshots**: Available in the [Images](Images) folder
 
 ---
